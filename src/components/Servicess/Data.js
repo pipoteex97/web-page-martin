@@ -1,17 +1,16 @@
 export const homeObjOne = {
-    lightBg: false,
-    lightText: true,
-    lightTextDesc: true,
-    topLine: 'Acceso exclusivo',
-    headline: 'Que lindo sos',
-    description:
-      'Hol que tal',
-    buttonLabel: 'Pruebe ahora',
-    imgStart: '',
-    img: 'images/svg-1.svg',
-    alt: 'Credit Card'
-  };
-  
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: 'Acceso exclusivo',
+  headline: 'Aca tiene que ir algo pero nose que',
+  description:
+    'Hol que tal',
+  buttonLabel: 'Pruebe ahora',
+  imgStart: '',
+  img: 'images/svg-1.svg',
+  alt: 'Credit Card'
+};
   export const homeObjTwo = {
     lightBg: false,
     lightText: true,

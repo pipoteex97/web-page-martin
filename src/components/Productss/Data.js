@@ -3,7 +3,7 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Acceso exclusivo',
-  headline: 'Que lindo sos',
+  headline: 'Aca tiene que ir algo pero nose que',
   description:
     'Hol que tal',
   buttonLabel: 'Pruebe ahora',
