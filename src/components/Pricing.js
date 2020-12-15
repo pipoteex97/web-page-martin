@@ -19,6 +19,7 @@ export const Pricing = () => {
                         <div className='icon'>
                         <FaFire />
                         </div>
+                        
                         <h3>Starter</h3>
                         <h4>$1000</h4>
                         <p>Por mes</p>
@@ -72,5 +73,6 @@ export const Pricing = () => {
                 </div>
             </div>
     </IconContext.Provider>
+                
     )
 }

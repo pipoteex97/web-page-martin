@@ -3,13 +3,13 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Acceso exclusivo',
-  headline: 'Aca tiene que ir algo pero nose que',
+  headline: 'Esto es otra cosa',
   description:
     'Hol que tal',
   buttonLabel: 'Pruebe ahora',
   imgStart: '',
-  img: 'images/svg-1.svg',
-  alt: 'Credit Card'
+  img: 'public/images/images.jpg',
+  alt: 'Tarjeta de credito'
 };
 
 export const homeObjTwo = {
