@@ -18,7 +18,7 @@ export const Navbar = () => {
     }
     
     const showButton = () =>{
-        if(window.innerWidth <=960){
+        if(window.innerWidth <=660){
             setbutton(false);
         }else{
             setbutton(true);
@@ -29,6 +29,8 @@ export const Navbar = () => {
         showButton();
     }, [])
 
+    console.log("Este es el click ",JSON.stringify(click));
+    console.log("Este es el boton ",JSON.stringify(button));
     window.addEventListener("resize", showButton);
     return (
         <>

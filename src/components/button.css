@@ -51,10 +51,10 @@
 
 .btn--wide{
     padding: 12px 64px;
-    font-size: 20px;
+    font-size: 22px;
 }
 
-.btn--large:hover, .btn--medium:hover, btn--mobile:hover{
+.btn--large:hover, .btn--medium:hover, .btn--mobile:hover{
     transition: all 0.3s ease-out;
     background: #fff;
     color: #242424;
