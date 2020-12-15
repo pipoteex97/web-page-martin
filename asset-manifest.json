@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-page-martin/static/css/main.db1b2c58.chunk.css",
+    "main.js": "/web-page-martin/static/js/main.0c6ac449.chunk.js",
+    "main.js.map": "/web-page-martin/static/js/main.0c6ac449.chunk.js.map",
+    "runtime-main.js": "/web-page-martin/static/js/runtime-main.3a776ed5.js",
+    "runtime-main.js.map": "/web-page-martin/static/js/runtime-main.3a776ed5.js.map",
+    "static/js/2.4699cf51.chunk.js": "/web-page-martin/static/js/2.4699cf51.chunk.js",
+    "static/js/2.4699cf51.chunk.js.map": "/web-page-martin/static/js/2.4699cf51.chunk.js.map",
+    "index.html": "/web-page-martin/index.html",
+    "static/css/main.db1b2c58.chunk.css.map": "/web-page-martin/static/css/main.db1b2c58.chunk.css.map",
+    "static/js/2.4699cf51.chunk.js.LICENSE.txt": "/web-page-martin/static/js/2.4699cf51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a776ed5.js",
+    "static/js/2.4699cf51.chunk.js",
+    "static/css/main.db1b2c58.chunk.css",
+    "static/js/main.0c6ac449.chunk.js"
+  ]
+}
